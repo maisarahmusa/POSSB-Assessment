@@ -131,6 +131,8 @@
     <header>
         {{-- <nav class="navbar navbar-expand p-3"> --}}
             <h1 class="purchase">STATIONERY</h1>
+            <a href="/purchase-create"><button class="btn btn-primary">CLICK HERE TO PURCHASE THE ITEMS</button></a>
+
         {{-- </nav> --}}
         
     </header>

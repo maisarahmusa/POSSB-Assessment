@@ -16,7 +16,7 @@
                     <label class="col-form-label text-black">Items: <span style="color: #FF0000">&#42;</span></label>
                 </div>
                 <div class="col-5 mb-2">
-                    <select class="form-control" aria-label="Default select example" name="items[]" multiple="">
+                    <select class="form-control" aria-label="Default select example" name="items[]" multiple="" required>
                         <option disabled>PLEASE SELECT</option>
                         <option value="pencil">PENCIL (RM 12)</option>
                         <option value="book">BOOK (RM 15)</option>
