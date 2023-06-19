@@ -130,7 +130,7 @@
     {{-- start header --}}
     <header>
         {{-- <nav class="navbar navbar-expand p-3"> --}}
-            <h1 class="purchase">STATIONARY</h1>
+            <h1 class="purchase">STATIONERY</h1>
         {{-- </nav> --}}
         
     </header>
